@@ -48,3 +48,9 @@
 <h2 align="left">GitHub Trophies:</h2>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=purehorizon" alt="purehorizon" /></a> </p>
+
+<br>
+
+<h2 align="left">Random Tech quote:</h2>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
