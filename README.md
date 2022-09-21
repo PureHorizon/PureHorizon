@@ -2,7 +2,7 @@
 <h3 align="center">A Business Informatics Student from Germany.</h3>
 <br>
 
-<h2 align="left"> About Me: </h2>
+<h1 align="left"> About Me: </h1>
 
 - 🔭 I’m currently working on **my Skills.**
 
@@ -37,9 +37,9 @@
 
 <h2 align="left">GitHub Stats:</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=purehorizon&show_icons=true&theme=dracula&title_color=6e6bff&text_color=79e2cd&bg_color=011627&locale=en&layout=compact" alt="purehorizon" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=purehorizon&show_icons=true&theme=dracula&title_color=6e6bff&text_color=79e2cd&bg_color=151515&locale=en&layout=compact" alt="purehorizon" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=purehorizon&show_icons=true&theme=dracula&title_color=6e6bff&text_color=79e2cd&bg_color=011627&locale=en" alt="purehorizon" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=purehorizon&show_icons=true&theme=dracula&title_color=6e6bff&text_color=79e2cd&bg_color=151515&locale=en" alt="purehorizon" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=purehorizon&theme=dark" alt="purehorizon" /></p>
 
