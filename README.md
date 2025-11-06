@@ -14,7 +14,7 @@
 
 - 📫 How to reach me: **wagner.luca@hotmail.com**
 
-- 📄 Know about my experiences: [https://purehorizon.github.io/#resume](https://purehorizon.github.io/#resume)
+- 📄 Know about my experiences: [https://www.lucawagner.de](https://www.lucawagner.de)
 
 - ⚡ Fun fact: **Google rents out goats to replace lawnmowers.**
 
