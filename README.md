@@ -8,7 +8,7 @@
 
 - 👨‍💻 I’m currently learning **new programming languages.**
 
-- 👨‍💻 All of my projects are available at: [https://purehorizon.github.io/#portfolio](https://purehorizon.github.io/#portfolio)
+- 👨‍💻 All of my projects are available at: [https://www.lucawagner.de/](https://www.lucawagner.de/)
 
 - 💬 Ask me about **any tech stuff.**
 
