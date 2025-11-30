@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **any tech stuff.**
 
-- 📫 How to reach me: **wagner.luca@hotmail.com**
+- 📫 How to reach me: **luca.wagner.dev@gmail.com**
 
 - 📄 Know about my experiences: [https://www.lucawagner.de](https://www.lucawagner.de)
 
